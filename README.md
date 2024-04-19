@@ -11,4 +11,4 @@ __This template's dependencies include:__
 - VS Core
 - Kotlin for Forge
 
-![vs_addon_template_logo](https://github.com/TechTastic/VS-Addon-Template/assets/74630543/de76337a-387d-44a4-aac0-f42f97bae499)
+![vs-space_exploration_logo]([https://cdn.discordapp.com/icons/1222085170086281366/183411af2ed78f0677422ca601cf53f3.webp?size=100])
